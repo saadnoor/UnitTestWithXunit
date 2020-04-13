@@ -1,0 +1,23 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PrimeDetector", "PrimeDetector\PrimeDetector.csproj", "{BB022FA8-F8DC-4E0F-85D7-DAEED96CF528}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PrimeDetectorTest", "PrimeDetectorTest\PrimeDetectorTest.csproj", "{CA49FD69-1B2D-43A3-B658-E7158B9434C9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BB022FA8-F8DC-4E0F-85D7-DAEED96CF528}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BB022FA8-F8DC-4E0F-85D7-DAEED96CF528}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BB022FA8-F8DC-4E0F-85D7-DAEED96CF528}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BB022FA8-F8DC-4E0F-85D7-DAEED96CF528}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CA49FD69-1B2D-43A3-B658-E7158B9434C9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CA49FD69-1B2D-43A3-B658-E7158B9434C9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CA49FD69-1B2D-43A3-B658-E7158B9434C9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CA49FD69-1B2D-43A3-B658-E7158B9434C9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
